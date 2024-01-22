@@ -1,1 +1,3 @@
-print(8)
+print('egewrg')
+a=9.0
+a
